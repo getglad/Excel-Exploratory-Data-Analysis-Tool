@@ -1,0 +1,13 @@
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\Excel_Exploratory_Data_Analysis_Tool.exe.config
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\Excel_Exploratory_Data_Analysis_Tool.exe
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\Excel_Exploratory_Data_Analysis_Tool.pdb
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\DataLibrary.dll
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\DynamicInterop.dll
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\RDotNet.dll
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\RDotNet.NativeLibrary.dll
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\DataLibrary.pdb
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\RDotNet.xml
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\bin\Debug\RDotNet.NativeLibrary.xml
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\obj\Debug\Excel_Exploratory_Data_Analysis_Tool.csprojResolveAssemblyReference.cache
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\obj\Debug\Excel_Exploratory_Data_Analysis_Tool.exe
+c:\users\mg\documents\visual studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\Excel_Exploratory_Data_Analysis_Tool\obj\Debug\Excel_Exploratory_Data_Analysis_Tool.pdb

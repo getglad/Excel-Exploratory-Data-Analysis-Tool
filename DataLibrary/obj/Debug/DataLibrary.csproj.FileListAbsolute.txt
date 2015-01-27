@@ -1,0 +1,15 @@
+C:\Users\mg\Documents\otherstuff\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\mg\Documents\otherstuff\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\mg\Documents\otherstuff\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\mg\Documents\otherstuff\DataLibrary\obj\Debug\DataLibrary.pdb
+C:\Users\mg\Documents\otherstuff\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+I:\MGLADNEY\vsprojects\vsworks\VSDeskReader\DataLibrary\bin\Debug\DataLibrary.dll
+I:\MGLADNEY\vsprojects\vsworks\VSDeskReader\DataLibrary\bin\Debug\DataLibrary.pdb
+I:\MGLADNEY\vsprojects\vsworks\VSDeskReader\DataLibrary\obj\Debug\DataLibrary.dll
+I:\MGLADNEY\vsprojects\vsworks\VSDeskReader\DataLibrary\obj\Debug\DataLibrary.pdb
+I:\MGLADNEY\vsprojects\vsworks\VSDeskReader\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mg\Documents\Visual Studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\mg\Documents\Visual Studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\mg\Documents\Visual Studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\DataLibrary\obj\Debug\DataLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mg\Documents\Visual Studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\mg\Documents\Visual Studio 2013\Projects\Excel_Exploratory_Data_Analysis_Tool\DataLibrary\obj\Debug\DataLibrary.pdb
